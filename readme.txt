@@ -5,7 +5,7 @@ Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-SugarCRM web-to-lead plugin generates a custom contact form on your website's page, or post and sends the info to your instance of Sugar CRM CE or Pro.
+SugarCRM web-to-lead plugin generates a custom contact form on your website's page, or post and sends the info to your instance of Sugar CRM.
 
 == Description ==
 
