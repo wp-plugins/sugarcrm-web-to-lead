@@ -9,7 +9,7 @@ SugarCRM web-to-lead plugin generates a custom contact form on your website's pa
 
 == Description ==
 
-<p>SugarCRM web-to-lead is a Wordpress plugin generating a custom contact form on your Wordpress website or blog that sends the leads to your SugarCRM. The plugin has a few settings such as the campaign ID and the custom fields you require. Once set simply insert the shortcode [SUGAR-FORM] in any page or post you want the form to appear. You can also use the shortcode in your sidebar.
+<p>SugarCRM Wordpress web-to-lead is a plugin that generates a custom contact form on your Wordpress website or blog that sends the leads to your SugarCRM. The plugin has a few settings such as the campaign ID and the custom fields you require. Once set simply insert the shortcode [SUGAR-FORM] in any page or post you want the form to appear. You can also use the shortcode in your sidebar.
 </p>
 <p>Sugar Contact Form is designed with some CSS but if you want the plugin to match with your website, there is a special area where you can put your own CSS.</p>
 <p>Kenmore Design is open to your suggestions:  <a href="https://www.kenmoredesign.com/" alt="web development company" title="Web Development Company">www.kenmoredesign.com </a></p>
