@@ -15,6 +15,8 @@ SugarCRM web-to-lead plugin generates a custom contact form on your website's pa
 <p>Kenmore Design is open to your suggestions:  <a href="https://www.kenmoredesign.com/" alt="web development company" title="Web Development Company">www.kenmoredesign.com </a></p>
 <p>Our <a href="https://www.kenmoredesign.com/" alt="web development company" title="web development company">web development company</a> is happy to assist you with any custom design or development needs. </p>
 
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/fyoZ16I5RNk?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fyoZ16I5RNk?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
 == Installation ==
 
 Here is what you need to do: 
@@ -25,7 +27,7 @@ Here is what you need to do:
 4. Insert your data in the campaign ID, Sugar URL (for example http://sugar.website.com/), required ID, required fields and fields in the corresponding fields from the HTML provided by SugarCRM. 
 5. Insert [SUGAR-FORM] short-code in any post, page or widget, you can also use this markup to insert the form directly to the theme php files: '<?php if (isset($sugar_form)) echo $sugar_form->showForm(); ?>'
 
-<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/fyoZ16I5RNk?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fyoZ16I5RNk?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
 
 == Frequently Asked Questions ==
 
