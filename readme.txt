@@ -25,6 +25,8 @@ Here is what you need to do:
 4. Insert your data in the campaign ID, Sugar URL (for example http://sugar.website.com/), required ID, required fields and fields in the corresponding fields from the HTML provided by SugarCRM. 
 5. Insert [SUGAR-FORM] short-code in any post, page or widget, you can also use this markup to insert the form directly to the theme php files: '<?php if (isset($sugar_form)) echo $sugar_form->showForm(); ?>'
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fyoZ16I5RNk" frameborder="0" allowfullscreen></iframe>
+
 == Frequently Asked Questions ==
 
 = Can I use custom CSS? =
